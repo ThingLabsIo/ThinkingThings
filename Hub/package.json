@@ -1,0 +1,14 @@
+{
+  "name": "IoT-Labs",
+  "version": "0.1.0",
+  "private":true,
+  "description": "Sample app that connects a device to Azure using Node.js",
+  "main": "temp.js",
+    "author": "Doug Seven.",
+  "license": "MIT",
+  "dependencies": {
+    "azure-iot-device": "^1.0.0-preview.3",
+    "johnny-five": "^0.8.97",
+    "particle-io": "^0.10.1"
+  }
+}
