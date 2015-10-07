@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private":true,
   "description": "Sample app that connects a device to Azure using Node.js",
-  "main": "temp.js",
+  "main": "app.js",
     "author": "Doug Seven.",
   "license": "MIT",
   "dependencies": {
